@@ -1,0 +1,7 @@
+[staging]
+linux1  ansible_host=3.21.93.134  ansible_user=ec2-user ansible_ssh_private_key_file=/Users/nikolaipetrov/Documents/DevOps/petroffnadmin.pem 
+
+[testserver]
+linux2  ansible_host=18.188.214.160  ansible_user=ec2-user ansible_ssh_private_key_file=/Users/nikolaipetrov/Documents/DevOps/petroffnadmin.pem
+
+
